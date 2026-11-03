@@ -1,0 +1,18 @@
+.container{
+    /*background: #ff5050;?*/
+    margin-bottom: 50px;
+}
+.container-fluid{
+    background: #166abd;
+
+}
+.col-12{
+    border: 1px solid #000;
+}
+.progress{
+    margin-bottom: 20px;
+}
+.texto{
+    width: 200px;
+    height: 300px;
+}
